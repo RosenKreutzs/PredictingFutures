@@ -1,2 +1,8 @@
-# PredictingFuturesDeepforest
-PredictingFuturesDeepforest
+#### 1.主线逻辑(清晰)
+- 目的：证明deepforest模型的优越性
+- 途径：对于期货价格预测问题，运用deepforest，DNN，GAN，Treereg进行预测结果与指标的对比
+- 预期效果：deepforest的预测效果优于其余三种模型;
+- 要求：体现难度深度广度，创新点
+- 数据来源：合理清晰；
+
+
