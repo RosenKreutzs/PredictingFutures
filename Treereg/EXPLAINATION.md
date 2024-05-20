@@ -1,15 +1,19 @@
 # 决策树(Treereg)
+
 2024/5/20
+
 ## 决策树的训练目的
+
 以先根据划分标准构建再根据对应指标剪枝的方式，获得每个节点的最优划分条件。(每个节点的最优划分条件:一般用一个节点对应一个特征，但可用多个特征)
+
 ## 深度森林的原稿
 
-链接：https://pan.baidu.com/s/1AA2eh_FjwUX82Gka3QGL-g?pwd=92kl 
-提取码：92kl 
+链接：https://pan.baidu.com/s/1AA2eh_FjwUX82Gka3QGL-g?pwd=92kl
+提取码：92kl
 
 ## 决策树的训练流程也是构建流程
 
-![Treereg的示例](/assets/Treereg的示例.png )
+![Treereg的示例](../assets/Treereg的示例.png )
 
 1. 决策树的构建：
    - 根节点的训练数据集A的元素数量sample为105个；
