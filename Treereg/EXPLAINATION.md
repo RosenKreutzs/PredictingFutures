@@ -6,9 +6,9 @@
 
 以先根据划分标准构建再根据对应指标剪枝的方式，获得每个节点的最优划分条件。(每个节点的最优划分条件:一般用一个节点对应一个特征，但可用多个特征)
 
-## 深度森林的原稿
+## 决策树的原稿
 
-链接：https://pan.baidu.com/s/1AA2eh_FjwUX82Gka3QGL-g?pwd=92kl
+链接：[https://pan.baidu.com/s/1AA2eh_FjwUX82Gka3QGL-g?pwd=92kl](https://pan.baidu.com/s/1AA2eh_FjwUX82Gka3QGL-g?pwd=92kl)
 提取码：92kl
 
 ## 决策树的训练流程也是构建流程

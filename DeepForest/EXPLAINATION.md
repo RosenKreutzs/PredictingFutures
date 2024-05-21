@@ -14,7 +14,7 @@
 
 ## 深度森林的原稿
 
-链接：https://pan.baidu.com/s/1TJQE5HaHilfosSm6Wo36hw?pwd=6ing
+链接：[https://pan.baidu.com/s/1TJQE5HaHilfosSm6Wo36hw?pwd=6ing](https://pan.baidu.com/s/1TJQE5HaHilfosSm6Wo36hw?pwd=6ing)
 提取码：6ing
 
 ## 深度森林的结构
