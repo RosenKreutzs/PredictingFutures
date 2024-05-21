@@ -27,8 +27,6 @@
 - [DeepForest的个人理解](DeepForest/EXPLAINATION.md)
 - [Treereg的个人理解](Treereg/EXPLAINATION.md)
 - [DNN的个人理解](DNN/EXPLAINATION.md)
+- [GAN的个人理解](GAN/EXPLAINATION.md)
 
-### 4.完成成事项
-
-- GAN模型未做详细说明
-- 未关联WPS的笔记
+### 4.未完成事项
